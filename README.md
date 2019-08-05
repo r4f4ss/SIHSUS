@@ -11,3 +11,9 @@ Script para conversão e importação de tabelas no formato DBF que estão em um
 
 2-conversaoImportacaoDBF
 Script para conversão e importação de tabelas no formato DBF que estão divididas em vários arquivos, juntando-os na coleção do MongoDB.
+
+conversaoImportacaoSIH
+Conversão e importação da tabela SIh, dividida em vários arquivos.
+
+ETL
+Script que realiza o processo de ETL.
